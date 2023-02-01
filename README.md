@@ -14,7 +14,9 @@
 ### 와이어프레임
 <img width="70%" src="https://user-images.githubusercontent.com/114720525/215980233-a592e78e-af6a-41c1-a2cb-094c0a6c090b.png"><br>
 
-
+## 2. 프로젝트 핵심 기능
+- ott 콘텐츠 정보 출력
+- 커뮤니티로 사용되는 게시판 구현
 ## 3. 담당 기능 소개
 ### 3.1) 영화/드라마 게시판
 - SummerNote API 사용하여 게시글 및 이미지 업로드 가능<br><br>
